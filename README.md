@@ -1,4 +1,4 @@
-## Olá, Seja Bem vindo a minha página no GitHub 😁
+## Olá, Seja Bem vindo a minha página no GitHub
 
 ### Aqui estarei postando projetos pessoais, sobre o qual busquei desenvolver meus conhecimentos
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuhj@gmail.com)
